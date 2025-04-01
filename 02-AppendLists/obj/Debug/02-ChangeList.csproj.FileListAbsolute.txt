@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\02-ChangeList\bin\Debug\02-ChangeList.exe.config
+C:\Users\Laptop\Desktop\C#\02-ChangeList\bin\Debug\02-ChangeList.exe
+C:\Users\Laptop\Desktop\C#\02-ChangeList\bin\Debug\02-ChangeList.pdb
+C:\Users\Laptop\Desktop\C#\02-ChangeList\obj\Debug\02-ChangeList.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\02-ChangeList\obj\Debug\02-ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\02-ChangeList\obj\Debug\02-ChangeList.exe
+C:\Users\Laptop\Desktop\C#\02-ChangeList\obj\Debug\02-ChangeList.pdb
