@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\bin\Debug\06-SquareNumbers.exe.config
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\bin\Debug\06-SquareNumbers.exe
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\bin\Debug\06-SquareNumbers.pdb
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\obj\Debug\06-SquareNumbers.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\obj\Debug\06-SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\obj\Debug\06-SquareNumbers.exe
+C:\Users\Laptop\Desktop\C#\Lists-Lab\06-SquareNumbers\obj\Debug\06-SquareNumbers.pdb
