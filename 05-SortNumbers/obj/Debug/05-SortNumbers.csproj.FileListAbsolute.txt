@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\bin\Debug\05-SortNumbers.exe.config
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\bin\Debug\05-SortNumbers.exe
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\bin\Debug\05-SortNumbers.pdb
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\obj\Debug\05-SortNumbers.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\obj\Debug\05-SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\obj\Debug\05-SortNumbers.exe
+C:\Users\Laptop\Desktop\C#\Lists-Lab\05-SortNumbers\obj\Debug\05-SortNumbers.pdb
