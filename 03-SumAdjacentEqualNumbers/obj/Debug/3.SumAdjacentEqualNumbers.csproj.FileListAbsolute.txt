@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\bin\Debug\3.SumAdjacentEqualNumbers.exe.config
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\bin\Debug\3.SumAdjacentEqualNumbers.exe
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\bin\Debug\3.SumAdjacentEqualNumbers.pdb
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\obj\Debug\3.SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\obj\Debug\3.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\obj\Debug\3.SumAdjacentEqualNumbers.exe
+C:\Users\Laptop\Desktop\C#\Lists-Lab\3.SumAdjacentEqualNumbers\obj\Debug\3.SumAdjacentEqualNumbers.pdb
